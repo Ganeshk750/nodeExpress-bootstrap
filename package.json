@@ -1,0 +1,19 @@
+{
+  "name": "expressbootstrapviews",
+  "version": "1.0.0",
+  "description": "nodejs express bootstrap views",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "bootstrap"
+  ],
+  "author": "ganeshk750",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
